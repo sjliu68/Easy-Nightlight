@@ -7,7 +7,7 @@ With the development of remote sensing techniques, people now can observe the be
 The most basic application is to calibrate nighttime light data, sometimes with the need to clip nighttime light images in order to save computation time. However, repeated works are annoying and hence I develop two simple tools, namely Easy-Subset and Easy-BandMath, as presented here.
 
 ## Documents
-A simple Chinese version of user guide is attached since this was originally a homework of mine in ENVI-IDL programming when I was at Sun Yat-sen University. Feel free to contact me at lishengjie0756@gmail.com if you need any help.
+A simple Chinese version of user guide is attached since this was originally a homework of mine in ENVI-IDL programming when I was at Sun Yat-sen University. Feel free to contact me (liushengjie0756 (at) gmail.com) if you need any help.
 
 *To do*: Add an English version of user guide.
 
