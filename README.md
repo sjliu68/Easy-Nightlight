@@ -1,6 +1,8 @@
 # Easy-Nightlight
 Using ENVI-IDL to extract nighttime light data for social and economic studies.
 
+**This repo is written in IDL, not Prolog.**
+
 ## Background
 With the development of remote sensing techniques, people now can observe the beautiful night light on the Earth. It is common for researchers in the fields of remote sensing and economics to analyze those nighttime lights in a long sequence with GIS techniques. 
 
